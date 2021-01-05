@@ -1,6 +1,6 @@
 # Memories App
 
-A Simple Memories sharing app built on MERN Stack.
+A Simple Memories App built on MERN Stack.
 
 ## Configuration
 
