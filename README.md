@@ -2,10 +2,6 @@
 
 A Simple Memories sharing app built on MERN Stack.
 
-## Demo
-
-Click [here](https://memoriescherished.herokuapp.com/) for demo.
-
 ## Configuration
 
 Create .env file in root folder. Add the following configurations:
@@ -32,6 +28,3 @@ $ npm start
 $ npm run client
 ```
 
-## License
-
-This project is [MIT licensed](LICENSE).
